@@ -1,0 +1,132 @@
+
+<--------------Port status---------------->
+Type s position 0 vessel vessel_20380
+Type s position 1 vessel vessel_20379
+Type s position 2 vessel vessel_20382
+Type m position 3 vessel vessel_20385
+Type m position 4 vessel vessel_20384
+Type m position 5 vessel vessel_20387
+Type m position 6 vessel vessel_20388
+Type l position 7 vessel vessel_20389
+Type l position 8 vessel vessel_20393
+Type l position 9 currently empty
+Type l position 10 currently empty
+Type l position 11 currently empty
+
+
+<--------------Stats---------------->
+Average total waiting time 0.00 minutes
+Average s waiting time 0.00 minutes
+Average m waiting time 0.00 minutes
+Average l waiting time 0.00 minutes
+Port total income 0 $ ,average income 0.00 $
+
+<--------------Port status---------------->
+Type s position 0 currently empty
+Type s position 1 currently empty
+Type s position 2 vessel vessel_20382
+Type m position 3 currently empty
+Type m position 4 vessel vessel_20384
+Type m position 5 vessel vessel_20387
+Type m position 6 vessel vessel_20388
+Type l position 7 currently empty
+Type l position 8 vessel vessel_20393
+Type l position 9 vessel vessel_20390
+Type l position 10 vessel vessel_20392
+Type l position 11 vessel vessel_20391
+
+
+<--------------Stats---------------->
+Average total waiting time 27.00 minutes
+Average s waiting time 24.00 minutes
+Average m waiting time 30.00 minutes
+Average l waiting time 26.00 minutes
+Port total income 7210 $ ,average income 1802.00 $
+
+<--------------Port status---------------->
+Type s position 0 vessel vessel_20381
+Type s position 1 currently empty
+Type s position 2 currently empty
+Type m position 3 vessel vessel_20383
+Type m position 4 currently empty
+Type m position 5 currently empty
+Type m position 6 vessel vessel_20388
+Type l position 7 currently empty
+Type l position 8 currently empty
+Type l position 9 currently empty
+Type l position 10 currently empty
+Type l position 11 vessel vessel_20398
+
+
+<--------------Stats---------------->
+Average total waiting time 34.00 minutes
+Average s waiting time 28.00 minutes
+Average m waiting time 33.00 minutes
+Average l waiting time 38.00 minutes
+Port total income 20895 $ ,average income 2089.00 $
+
+<--------------Port status---------------->
+Type s position 0 vessel vessel_20381
+Type s position 1 vessel vessel_20463
+Type s position 2 vessel vessel_20460
+Type m position 3 vessel vessel_20383
+Type m position 4 vessel vessel_20459
+Type m position 5 currently empty
+Type m position 6 currently empty
+Type l position 7 vessel vessel_20462
+Type l position 8 vessel vessel_20397
+Type l position 9 vessel vessel_20395
+Type l position 10 currently empty
+Type l position 11 currently empty
+
+
+<--------------Stats---------------->
+Average total waiting time 36.00 minutes
+Average s waiting time 28.00 minutes
+Average m waiting time 39.00 minutes
+Average l waiting time 38.00 minutes
+Port total income 30210 $ ,average income 2323.00 $
+
+<--------------Port status---------------->
+Type s position 0 currently empty
+Type s position 1 currently empty
+Type s position 2 vessel vessel_20460
+Type m position 3 vessel vessel_20396
+Type m position 4 vessel vessel_20459
+Type m position 5 currently empty
+Type m position 6 currently empty
+Type l position 7 currently empty
+Type l position 8 currently empty
+Type l position 9 vessel vessel_20395
+Type l position 10 vessel vessel_20461
+Type l position 11 vessel vessel_20386
+
+
+<--------------Stats---------------->
+Average total waiting time 38.00 minutes
+Average s waiting time 36.00 minutes
+Average m waiting time 41.00 minutes
+Average l waiting time 37.00 minutes
+Port total income 40770 $ ,average income 2265.00 $
+
+<--------------Port status---------------->
+Type s position 0 currently empty
+Type s position 1 currently empty
+Type s position 2 currently empty
+Type m position 3 currently empty
+Type m position 4 currently empty
+Type m position 5 vessel vessel_20394
+Type m position 6 currently empty
+Type l position 7 currently empty
+Type l position 8 currently empty
+Type l position 9 currently empty
+Type l position 10 currently empty
+Type l position 11 currently empty
+
+
+<--------------Stats---------------->
+Average total waiting time 40.00 minutes
+Average s waiting time 37.00 minutes
+Average m waiting time 44.00 minutes
+Average l waiting time 40.00 minutes
+Port total income 53610 $ ,average income 2233.00 $

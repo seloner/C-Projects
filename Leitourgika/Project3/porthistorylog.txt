@@ -1,0 +1,150 @@
+Wed Dec 19 21:28:35 2018
+ Port: vessel_20380 type s entered 
+Wed Dec 19 21:28:37 2018
+ Port: vessel_20379 type s entered 
+Wed Dec 19 21:28:39 2018
+ Port: vessel_20385 type m entered 
+Wed Dec 19 21:28:41 2018
+ Port: vessel_20389 type l entered 
+Wed Dec 19 21:28:44 2018
+ Port: vessel_20393 type l entered 
+
+<--------------Port status---------------->
+Type s position 0 vessel vessel_20380
+Type s position 1 vessel vessel_20379
+Type s position 2 currently empty
+Type m position 3 vessel vessel_20385
+Type m position 4 currently empty
+Type m position 5 currently empty
+Type m position 6 currently empty
+Type l position 7 vessel vessel_20389
+Type l position 8 vessel vessel_20393
+Type l position 9 currently empty
+Type l position 10 currently empty
+Type l position 11 currently empty
+
+Wed Dec 19 21:28:47 2018
+ Port: vessel_20384 type m entered 
+Wed Dec 19 21:28:49 2018
+ Port: vessel_20382 type s entered 
+Wed Dec 19 21:28:51 2018
+ Port: vessel_20387 type m entered 
+Wed Dec 19 21:28:53 2018
+ Port: vessel_20388 type m entered 
+Wed Dec 19 21:28:55 2018
+ Port: vessel_20390 type l entered 
+
+<--------------Port status---------------->
+Type s position 0 vessel vessel_20380
+Type s position 1 vessel vessel_20379
+Type s position 2 vessel vessel_20382
+Type m position 3 vessel vessel_20385
+Type m position 4 vessel vessel_20384
+Type m position 5 vessel vessel_20387
+Type m position 6 vessel vessel_20388
+Type l position 7 vessel vessel_20389
+Type l position 8 vessel vessel_20393
+Type l position 9 vessel vessel_20390
+Type l position 10 currently empty
+Type l position 11 currently empty
+
+Wed Dec 19 21:28:58 2018
+ Port: vessel_20392 type l entered 
+Wed Dec 19 21:29:01 2018
+ Port: vessel_20391 type l entered 
+Port: vessel vessel_20380 leaving after 25 minutes ,cost :1250 $
+Port: vessel vessel_20379 leaving after 25 minutes ,cost :1250 $
+Port: vessel vessel_20385 leaving after 26 minutes ,cost :1950 $
+Port: vessel vessel_20389 leaving after 23 minutes ,cost :2760 $
+Port: vessel vessel_20384 leaving after 23 minutes ,cost :1725 $
+Port: vessel vessel_20393 leaving after 25 minutes ,cost :3000 $
+Port: vessel vessel_20382 leaving after 25 minutes ,cost :1250 $
+Port: vessel vessel_20387 leaving after 26 minutes ,cost :1950 $
+Wed Dec 19 21:29:22 2018
+ Port: vessel_20398 type m entered 
+Port: vessel vessel_20390 leaving after 23 minutes ,cost :2760 $
+Wed Dec 19 21:29:27 2018
+ Port: vessel_20383 type s entered 
+Port: vessel vessel_20392 leaving after 25 minutes ,cost :3000 $
+Wed Dec 19 21:29:32 2018
+ Port: vessel_20381 type s entered 
+
+<--------------Port status---------------->
+Type s position 0 vessel vessel_20381
+Type s position 1 currently empty
+Type s position 2 currently empty
+Type m position 3 vessel vessel_20383
+Type m position 4 currently empty
+Type m position 5 currently empty
+Type m position 6 vessel vessel_20388
+Type l position 7 currently empty
+Type l position 8 currently empty
+Type l position 9 currently empty
+Type l position 10 currently empty
+Type l position 11 vessel vessel_20398
+
+Port: vessel vessel_20391 leaving after 27 minutes ,cost :3240 $
+Wed Dec 19 21:29:37 2018
+ Port: vessel_20463 type l entered 
+Wed Dec 19 21:29:40 2018
+ Port: vessel_20462 type l entered 
+Wed Dec 19 21:29:43 2018
+ Port: vessel_20397 type m entered 
+Wed Dec 19 21:29:45 2018
+ Port: vessel_20459 type l entered 
+Wed Dec 19 21:29:48 2018
+ Port: vessel_20395 type s entered 
+
+<--------------Port status---------------->
+Type s position 0 vessel vessel_20381
+Type s position 1 vessel vessel_20463
+Type s position 2 currently empty
+Type m position 3 vessel vessel_20383
+Type m position 4 vessel vessel_20459
+Type m position 5 currently empty
+Type m position 6 vessel vessel_20388
+Type l position 7 vessel vessel_20462
+Type l position 8 vessel vessel_20397
+Type l position 9 vessel vessel_20395
+Type l position 10 currently empty
+Type l position 11 currently empty
+
+Port: vessel vessel_20388 leaving after 54 minutes ,cost :4050 $
+Port: vessel vessel_20398 leaving after 27 minutes ,cost :2025 $
+Wed Dec 19 21:29:54 2018
+ Port: vessel_20460 type l entered 
+Wed Dec 19 21:29:57 2018
+ Port: vessel_20461 type l entered 
+Port: vessel vessel_20383 leaving after 29 minutes ,cost :1450 $
+Wed Dec 19 21:30:02 2018
+ Port: vessel_20386 type m entered 
+Port: vessel vessel_20381 leaving after 28 minutes ,cost :1400 $
+Port: vessel vessel_20463 leaving after 24 minutes ,cost :2880 $
+Port: vessel vessel_20462 leaving after 24 minutes ,cost :2880 $
+Port: vessel vessel_20397 leaving after 26 minutes ,cost :1950 $
+Wed Dec 19 21:30:14 2018
+ Port: vessel_20396 type m entered 
+Port: vessel vessel_20459 leaving after 26 minutes ,cost :3120 $
+Port: vessel vessel_20395 leaving after 27 minutes ,cost :1350 $
+Port: vessel vessel_20460 leaving after 22 minutes ,cost :2640 $
+Wed Dec 19 21:30:24 2018
+ Port: vessel_20394 type s entered 
+
+<--------------Port status---------------->
+Type s position 0 currently empty
+Type s position 1 currently empty
+Type s position 2 currently empty
+Type m position 3 vessel vessel_20396
+Type m position 4 currently empty
+Type m position 5 vessel vessel_20394
+Type m position 6 currently empty
+Type l position 7 currently empty
+Type l position 8 currently empty
+Type l position 9 currently empty
+Type l position 10 vessel vessel_20461
+Type l position 11 vessel vessel_20386
+
+Port: vessel vessel_20461 leaving after 24 minutes ,cost :2880 $
+Port: vessel vessel_20386 leaving after 24 minutes ,cost :1800 $
+Port: vessel vessel_20396 leaving after 14 minutes ,cost :1050 $
+Port: vessel vessel_20394 leaving after 5 minutes ,cost :250 $
