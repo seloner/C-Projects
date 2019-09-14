@@ -1,0 +1,31 @@
+#
+
+OBJS 	= worker.o trie.o diavasma.o 
+SOURCE	= worker.c trie.c diavasma.c
+HEADER  = TRIE.h  DIAVASMA.H 
+OUT  	= worker
+CC	    = gcc
+FLAGS   = -g -c 
+# -g option enables debugging mode 
+# -c flag generates object code for separate files
+
+all: $(OBJS)
+	$(CC) -g  $(OBJS) -o $(OUT) 
+
+# create/compile the individual files >>separately<< 
+worker.o: worker.c
+	$(CC)  $(FLAGS) worker.c
+
+trie.o: trie.c
+	$(CC) $(FLAGS) trie.c
+diavasma.o: diavasma.c
+	$(CC)  $(FLAGS) diavasma.c
+
+
+# clean house
+clean:
+	rm -f $(OBJS) $(OUT)
+
+# do a bit of accounting
+count:
+	wc $(SOURCE) $(HEADER)

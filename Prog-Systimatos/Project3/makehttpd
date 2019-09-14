@@ -1,0 +1,27 @@
+OBJS 	= myhttpd.o  
+SOURCE	= myhttpd.c  
+HEADER  = MYHTTPD.h  
+OUT  	= myhttpd
+CC	    = gcc
+FLAGS   = -g -c 
+# -g option enables debugging mode 
+# -c flag generates object code for separate files
+
+all: $(OBJS)
+	$(CC) -g -pthread  $(OBJS) -o $(OUT) 
+
+# create/compile the individual files >>separately<< 
+mycrawler.o: mycrawler.c
+	$(CC) -pthread  $(FLAGS) myhttpd.c
+
+
+
+
+
+# clean house
+clean:
+	rm -f $(OBJS) $(OUT)
+
+# do a bit of accounting
+count:
+	wc $(SOURCE) $(HEADER)

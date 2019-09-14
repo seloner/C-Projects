@@ -1,0 +1,8 @@
+﻿this is test
+/home/seloner/Desktop/paths/1.txt
+/home/seloner/Desktop/paths/2.txt
+/home/seloner/Desktop/paths/3.txt
+/home/seloner/Desktop/paths/4.txt
+/home/seloner/Desktop/paths/5.txt
+/home/seloner/Desktop/paths/6.txt
+/home/seloner/Desktop/paths/7.txt
